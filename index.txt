@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+  <head> 
+    <title> Assignment 1 </title>
+    <style>
+ body {
+	font-family: monospace;color:white;height:1000px;background-image: linear-gradient(to bottom right, #a6309b, #7f64c6, #5295ee)
+	}
+    </style>
+
+  </head>
+<body>
+ <h1 style=text-align:center;font-size:40px;> Introduction Into IT Assignment 1</h1>
+ <h2 style= text-align:center;> Contact me if you want</h2> 
+ <h2 style= text-align:center;> |  S3901342@student.rmit.edu.au   |</h2>  
+ <h2 style=font-size:30px;> My life: </h2>	
+ <p style=font-size:20px;> My full name is Zeeshan Jamil Kurd, but you can call me Zee for short. I 
+ <br>was born on the 1st of Feburary 2003, so i am currently 18 and im so close 
+ <br> to getting my drivers license(1 Month away).I am doing my first year of a 
+ <br> Bachelor of Information Technology at RMIT and its going
+ pretty good so  <br> far. I live in the west side of Melbourne in the suburb of Werribee. I grew
+ <br> up there my whole life with my parents and my sister. I graduated in 2020 
+ <br> from Werribee Secondary College.  </p>
+<img style=width:300px;position:absolute;top:250px;right:100px; src="Kingpin.jpg">
+<img style=width:330px;position:absolute;top:257px;right:425px; src="Me.jpg">
+<p style=position:absolute;top:700px;right:230px;font-size:20px;> Follow me on Instagram <strong>@Zeeshan_Kurd</strong> </p>
+
+<h2> Interest in IT </h2>
+<p> Ive had an interest in IT since I was born, from the latest game console on the market, to the latest advancement in the technology in phones. The smallest feature
+    added to new technology is always the thing that excites em the most. When you look at pictures of the first iPhone that was created you can see how small (yet chunky) and useless     
+    a mobile phone was, with little to no features, now I look in my pocket and see a computer that can do everything that the very first iPhone could do and 1000 other things. This advancement
+    had taken place in under 10 years, with new phones coming out ever year, each phone better and more efficient than the last. The amount of hardware that can engineered to fit into a such a small device              compared to 10 years just amazes me and inspires me to achieve the same level of advancement. I want to be able to help pioneer technology into the next generation of technology as phone companies have done over the years. Not only phone companies like apple and Samsung, but other companies that have created future tech in the present era like Tesla and google. Tesla is another major company that inspires me to want to create technology that no one has seen before and technology that is believed to be "of the future".
+
+</body>
+</html>
